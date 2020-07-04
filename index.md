@@ -1,5 +1,5 @@
-# SoftwareEngenius
-> Learn. Build. Share.
+# Learn. Build. Share.
+ ![](https://i.imgur.com/hoGCU5U.png)
 
 ## What is SoftwareEngenius?
 SoftwareEngenius is a technology focused YouTube channel with the mission of delivering informative content to the world. Core pillars include: algorithms, distributed systems and programming languages.
@@ -18,7 +18,7 @@ The goals of the series is:
 
 ## Video Links 
 | Algorithms                                                          | Software Engineering                                                |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+|:--------------------------------------------------------------------|:--------------------------------------------------------------------|
 | [Fast Exponentiation](https://www.youtube.com/watch?v=WAzGvZbaAOw)  | [Localhost vs 0.0.0.0](https://www.youtube.com/watch?v=ahYgoV8MDtg) |
 | [Fast GCD Computation](https://www.youtube.com/watch?v=I-DClW_0bhU) | [Linux Signaling](https://www.youtube.com/watch?v=zXZK3xVLyYc)    |
 | [Fast Primality Testing](https://www.youtube.com/watch?v=Yxo9d0HCmmI&list=LL1x8xbTXmulYknwNDyrBImQ&index=3&t=0s)| [HTTP Status Codes](https://www.youtube.com/watch?v=eCzkqTdBjP4)      |
@@ -30,7 +30,7 @@ The goals of the series is:
 
 ## Presentation Links
 | Algorithms                                                          | Software Engineering                                                |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+|:--------------------------------------------------------------------|:--------------------------------------------------------------------|
 | [Fast Exponentiation](https://docs.google.com/presentation/d/1zZ-ShaWUYz5fThn-2juSkenVrSEDVnrgA_heAfV27zs/edit?usp=sharing)  | [Localhost vs 0.0.0.0](https://docs.google.com/presentation/d/1GnT5zhMVVl6S1F0cSYRgF-7EFXHNkkSQLHs-YcigBjY/edit?usp=sharing) |
 | [Fast GCD Computation](https://docs.google.com/presentation/d/1yfZySV5q_I0cRPPtYUl5iGiE-oUmEX7oOOxgArsKuCU/edit?usp=sharing) | [Linux Signaling](https://docs.google.com/presentation/d/1kcryPnmxIpODRbA9MgHqwzzutWmuF9oBd0QRoX0dLIw/edit?usp=sharing)    |
 | [Fast Primality Testing](https://docs.google.com/presentation/d/1mROUEpDbx0N3YMcs8ZAvB4y3SHYqPNzPd0_Ak_obWJs/edit?usp=sharing)| [HTTP Status Codes](https://docs.google.com/presentation/d/1cWqajmdqHNT_RbEmqyrJLYUP0-twDWvAyVjlJ9Anilk/edit?usp=sharing) |
