@@ -2,21 +2,23 @@
  ![](https://i.imgur.com/hoGCU5U.png)
 
 ## What is SoftwareEngenius?
-SoftwareEngenius is a technology focused YouTube channel with the mission of delivering informative content to the world. Core pillars include: algorithms, distributed systems and programming languages.
+SoftwareEngenius is a <a href="https://www.youtube.com/user/ComputerBunnyMath123/" target="_blank">technology focused YouTube channel</a> with the mission of delivering informative content to the world. With topics ranging from Linux process signaling to computational geometry algorithms, you are sure to find something that keeps you learning. Reaching over 1.5 million total views across 200 tutorials, SoftwareEngenius has remained committed to delivering content for over 5 years.
+
+Core pillars include: algorithms, distributed systems and programming languages.
 
 ## What is 5 Minute Tutorials?
-5 Minute Tutorials is a recent effort to provide regular content to subscribers. There are two tracks: algorithms and software engineering. 
+5 Minute Tutorials is a recent effort to provide regular content to subscribers. 
 
-The goals of the series is:
+There are two tracks: algorithms and software engineering. The goals of the series is:
 - Introduce areas of the respective field that are not widely known or understood
 - Provide suitable background to have basic familiarity with the topic
-- Spark interest in new areas and share an appreciation of mathematics, computer science and software engineering :)
+- Spark interest in new areas and share an appreciation of mathematics and software engineering :)
 
-## Playlist Links
+#### Playlist Links
 - [Algorithm Series](https://www.youtube.com/watch?v=WAzGvZbaAOw&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr)
 - [Software Engineering Series](https://www.youtube.com/watch?v=ahYgoV8MDtg&list=PLIRuSslToIDgX7leusWZqzAIQAfvDG1mJ)
 
-## Video Links 
+#### Video Links 
 | Algorithms                                                          | Software Engineering                                                |
 |:--------------------------------------------------------------------|:--------------------------------------------------------------------|
 | [Fast Exponentiation](https://www.youtube.com/watch?v=WAzGvZbaAOw)  | [Localhost vs 0.0.0.0](https://www.youtube.com/watch?v=ahYgoV8MDtg) |
@@ -28,7 +30,7 @@ The goals of the series is:
 | | [HTTP CORS](https://www.youtube.com/watch?v=MeqQIpmvxMA)|
 
 
-## Presentation Links
+#### Presentation Links
 | Algorithms                                                          | Software Engineering                                                |
 |:--------------------------------------------------------------------|:--------------------------------------------------------------------|
 | [Fast Exponentiation](https://docs.google.com/presentation/d/1zZ-ShaWUYz5fThn-2juSkenVrSEDVnrgA_heAfV27zs/edit?usp=sharing)  | [Localhost vs 0.0.0.0](https://docs.google.com/presentation/d/1GnT5zhMVVl6S1F0cSYRgF-7EFXHNkkSQLHs-YcigBjY/edit?usp=sharing) |
