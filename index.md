@@ -17,8 +17,10 @@ The goals of the series is:
 - Spark interest in new areas and share an appreciation of mathematics and software engineering :)
 
 ## Playlist Links
-- [Algorithm Series](https://www.youtube.com/watch?v=WAzGvZbaAOw&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr)
-- [Software Engineering Series](https://www.youtube.com/watch?v=ahYgoV8MDtg&list=PLIRuSslToIDgX7leusWZqzAIQAfvDG1mJ)
+
+| | |
+|-------|---|
+| [Algorithm Series](https://www.youtube.com/watch?v=WAzGvZbaAOw&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr) <br><img width=300 src="https://i.imgur.com/2r8BA0V.png"/> | [Software Engineering Series](https://www.youtube.com/watch?v=ahYgoV8MDtg&list=PLIRuSslToIDgX7leusWZqzAIQAfvDG1mJ)<br> <img width=300 src="https://i.imgur.com/kNO5J3w.png"/>|
 
 ## Video Links 
 
