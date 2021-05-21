@@ -25,6 +25,7 @@ The goals of the series is:
 
 
 ## Video Links 
+
 | Algorithms                                                          | Software Engineering                                                |
 |---------------------------------------------------------------------|---------------------------------------------------------------------|
 | [Fast Exponentiation](https://www.youtube.com/watch?v=WAzGvZbaAOw)  | [Localhost vs 0.0.0.0](https://www.youtube.com/watch?v=ahYgoV8MDtg) |
