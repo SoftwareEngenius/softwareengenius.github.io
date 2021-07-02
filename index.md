@@ -42,6 +42,8 @@ The goals of the series is:
 | [Lossless Compression](https://youtu.be/RMdzXS_vlJc0) | [HTTP Cookies](https://www.youtube.com/watch?v=EqvUF_tVry0)|
 |[LZ77 Compression](https://youtu.be/jVcTrBjI-eE) |[JSON Web Tokens (JWT)](https://www.youtube.com/watch?v=pKrR85YgaRE&feature=youtu.be)|
 | [Decision Trees](https://youtu.be/V7OZL94IyWo)| [Single-Leader Replication](https://youtu.be/DwRaksqHdUM)|
+| [Locality Sensitive Hashing](https://youtu.be/R-iFka68ZwM)| [Multi-Leader Replication](https://youtu.be/AnG1vr5nj80)|
+| [MinHash Nearest Neighbor](https://youtu.be/GRHsg0d5X8Y)| [Leaderless Replication](https://youtu.be/Vx1yCOnOHQc)|
 
 
 ## Presentation Links
@@ -62,8 +64,8 @@ The goals of the series is:
 | [Lossless Compression](https://docs.google.com/presentation/d/1SlD2cFepF86zkcJyoijV953J8RuBcVOQ8Q_FOYvYRvg/edit?usp=sharing) | [HTTP Cookies](https://docs.google.com/presentation/d/16D37AZ_2ff3AfqPW1QXS9ycIPrAWCnNaprh023RY1Zw/edit?usp=sharing)|
 | [LZ77 Compression](https://docs.google.com/presentation/d/1FNDGKhaoltr55vkuwnzYS7QOGxhyo8FgF3J4Hmq1gs0/edit?usp=sharing) | [JSON Web Tokens (JWT)](https://docs.google.com/presentation/d/1j6DgeLW22AfnJuQrJoLVmglSaOGDghYOi2NLZ3cFr5M/edit?usp=sharing)|
 | [Decision Trees](https://docs.google.com/presentation/d/1UQd98IVsAyA9JluXWZm8UB_7cYZPfcSoISJ4AweyYzU/edit?usp=sharing) | [Single-Leader Replication](https://docs.google.com/presentation/d/1tWUwIBqTiuQrrH76RHxwGTbaJRZcQluNyswWXs84RhU/edit?usp=sharing) |
-| [Locality Sensitive Hashing](https://docs.google.com/presentation/d/1raFSWIHRJU5Tw4NPrW8WSpeeAdSnbrPnXiPYJOc1q78/edit?usp=sharing) ||
-| [MinHash Nearest Neighbor](https://docs.google.com/presentation/d/1NS_G3gDMya-c0cU_ixSazLOJpDF78tGyhrUO_GkChac/edit?usp=sharing) ||
+| [Locality Sensitive Hashing](https://docs.google.com/presentation/d/1raFSWIHRJU5Tw4NPrW8WSpeeAdSnbrPnXiPYJOc1q78/edit?usp=sharing) | [Multi-Leader Replication](https://docs.google.com/presentation/d/1P1VL5job-uWVTZulczHv-SVfl-T_Msn_sLyLJ6vVgs0/edit?usp=sharing)| 
+| [MinHash Nearest Neighbor](https://docs.google.com/presentation/d/1NS_G3gDMya-c0cU_ixSazLOJpDF78tGyhrUO_GkChac/edit?usp=sharing) | [Leaderless Replication](https://docs.google.com/presentation/d/1-oLVWl_A0D3MMxW3FxFJtc1Vz8g3Bk89X7HPlOOrLGc/edit?usp=sharing)|
 
 ## Questions or feedback?
 Feel free to leave questions as comments in the associated video. If you have any recommendations for topics, please leave an issue on GitHub or comment in one of the videos.
